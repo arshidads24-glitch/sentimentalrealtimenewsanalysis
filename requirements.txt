@@ -1,0 +1,7 @@
+streamlit>=1.0
+pandas
+plotly
+requests
+textblob
+gnews
+pyarrow
